@@ -1,0 +1,9 @@
+{% if DUOSHUO_SITENAME %}
+    <hr />
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+        <div id="duoshuo_comment"></div>
+        {% include 'includes/duoshuo_script.html' %}
+        {% include 'includes/duoshuo_thread.html' %}
+    </section>
+{% endif %}
