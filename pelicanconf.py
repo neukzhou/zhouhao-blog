@@ -38,7 +38,7 @@ BOOTSTRAP_THEME = 'cosmo'
 
 USE_FOLDER_AS_CATEGORY = True
 
-STATIC_PATHS = ['static/img']
+STATIC_PATHS = ['static/img','static/extra',]
 
 ARTICLE_URL = '{category}/{slug}.html'
 ARTICLE_SAVE_AS = ARTICLE_URL

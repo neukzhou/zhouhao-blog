@@ -50,6 +50,8 @@ Markdown，可以算作轻型的标记语言。所谓“轻型”，就是语法
 
 $$\frac{df(x)}{dt}=lim_{x \to 0}{\frac{f(x+h)-f(x)}{h}}$$
 
+以及$E=mc^2$.
+
 关于LaTeX的数学公式，参见：[LaTeX/数学公式][3]
 
 [3]: http://zh.wikibooks.org/zh-cn/LaTeX/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F
